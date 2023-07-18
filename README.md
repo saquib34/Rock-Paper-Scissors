@@ -4,7 +4,7 @@ This project is a rock-paper-scissors game that allows you to challenge an AI op
 
 ## Demo
 
-[Link to demo video or project repository]
+https://github.com/saquib34/Rock-Paper-Scissors/blob/main/20230718192133.mp4
 
 ## Introduction
 
